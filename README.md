@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sherelle</h1>
 <h3 align="center">A MERN stack software developer from London UK</h3>
 
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
+<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
 
-<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p>
+<p>&nbsp;<img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p>
 
-<p align="left"> <a href="https://twitter.com/@sherellie1" target="blank"><img src="https://img.shields.io/twitter/follow/@sherellie1?logo=twitter&style=for-the-badge" alt="@sherellie1" /></a> </p>
+<p>   
 
+  
 - 🔭 I’m currently working on [Blessed Drive, driving school web application](https://github.com/Sherelle-S/BlessedDrive.io)
 
 - 👨‍💻 All of my projects are available at [http://sherellescott.dev/](http://sherellescott.dev/)
 
 - 📝 My web developer journey and quest to break out of my comfort zone [https://developerloading.blogspot.com/](https://developerloading.blogspot.com/)
 
-- 📫 How to reach me **sherellescottdev@gmail.com**
+- 📫 How to reach me **sherellescottdev@gmail.com**</p>
 
 ### Blogs posts
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
@@ -42,5 +43,5 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
 
