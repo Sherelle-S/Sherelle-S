@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sherelle</h1>
 <h3 align="center">A MERN stack software developer from London UK</h3>
 
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
+<p><img align="left" width="47%" src="https://github-readme-sigma-five.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
 
-<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p>
+<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-sigma-five.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p>
 
 <p>   
 
