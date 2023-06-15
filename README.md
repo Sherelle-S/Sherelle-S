@@ -3,6 +3,8 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
 
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)</p>
+
 <!--<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p> -->
 
 <p>   
@@ -43,5 +45,5 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)-->
 
