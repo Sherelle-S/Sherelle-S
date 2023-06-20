@@ -8,7 +8,7 @@
 <!--<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p> -->
 
 <p>   
-
+<br>
   
 - 🔭 I’m currently working on [Blessed Drive, driving school web application](https://github.com/Sherelle-S/BlessedDrive.io)
 
