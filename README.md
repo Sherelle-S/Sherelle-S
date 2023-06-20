@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherelle</h1>
 <h3 align="center">A MERN stack software developer from London UK</h3>
 <!-- changed width from 47% to 44% after i temp hid stats-->
-<p><img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
+<p><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
 
