@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p> 
+<!--<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p> -->
 
 <p>   
 <br>
