@@ -3,16 +3,19 @@
 ### A MERN stack software developer from London, UK
 
 <p align="center">
-  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" />
-  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" />
 </p>
 
-<!-- - 🔭 I’m currently working on [Blessed Drive, a driving school web application](https://github.com/Sherelle-S/BlessedDrive.io)
-- 🌱 I’m currently learning Java! -->
+<!-- - 🔭 I’m currently working on [Blessed Drive, a driving school web application](https://github.com/Sherelle-S/BlessedDrive.io) -->
+<br>
+
+- 🌱 I’m currently learning Java!
 - 📚 Most recent works include [Algo trading application](https://github.com/Sherelle-S/codingblackfemales)
 - 👨‍💻 All of my projects are available at [http://sherellescott.dev/](http://sherellescott.dev/)
 - 📝 My web developer journey and quest to break out of my comfort zone [Developer Loading](https://developerloading.blogspot.com/)
 - 📫 How to reach me: **sherellescottdev@gmail.com**
+  
 
 ### Blog posts
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
