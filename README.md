@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sherelle</h1>
 <h3 align="center">A MERN stack software developer from London UK</h3>
 <!-- changed width from 47% to 44% after i temp hid stats-->
-<p><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherelle-s&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sherelle-s" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)-->
 
-<!--<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p-->
+<p>&nbsp;<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=sherelle-s&show_icons=true&theme=github_dark&locale=en" alt="sherelle-s" /></p>
 
-<p>   
+<p>  
+</p>
 <br>
   
 - 🔭 I’m currently working on [Blessed Drive, driving school web application](https://github.com/Sherelle-S/BlessedDrive.io)
@@ -45,5 +46,5 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sherelle-s&theme=github-dark-blue)](https://git.io/streak-stats)
 
